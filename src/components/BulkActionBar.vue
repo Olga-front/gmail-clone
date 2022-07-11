@@ -8,7 +8,6 @@
         @click="bulkSelect"
       />
     </span>
-    numberSelected {{ numberSelected }}
     <span class="buttons">
       <button
         @click="emailSelection.markRead"

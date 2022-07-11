@@ -1,6 +1,5 @@
 <template>
   <h1>VMail Inbox</h1>
-  <a href="dsd" class="btn">dsd</a>
 
   <Suspense>
     <template #default>
@@ -40,6 +39,10 @@ export default {
 }
 
 /* Global Styles */
+
+table {
+  width: 100%;
+}
 
 button {
   font-size: 16px;

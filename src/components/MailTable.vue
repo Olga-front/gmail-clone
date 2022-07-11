@@ -23,7 +23,7 @@
         <td @click="openEmail(email)">{{ email.from }}</td>
         <td @click="openEmail(email)">
           <p>
-            <strong>{{ email.subject }}</strong> - {{ email.body }}
+            <strong>{{ email.subject }}</strong>
           </p>
         </td>
         <td class="date" @click="openEmail(email)">
@@ -48,6 +48,7 @@ import MailView from "@/components/MailView.vue";
 import ModalView from "@/components/ModalView.vue";
 import BulkActionBar from "@/components/BulkActionBar.vue";
 import { reactive, ref } from "vue";
+import marked from "marked";
 import useEmailSelection from "@/composables/use-email-selection";
 
 export default {
@@ -59,7 +60,8 @@ export default {
       format,
       emails: ref(emails),
       openedEmail: ref(null),
-      selectedScreen: ref("inbox")
+      selectedScreen: ref("inbox"),
+      marked
     };
   },
   components: {
