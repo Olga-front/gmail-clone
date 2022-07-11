@@ -1,0 +1,76 @@
+{
+  "emails": [
+    {
+      "id": 1,
+      "from": "test_1@test.com",
+      "subject": "Gujarat: The unusual lion sightings on India's beaches",
+      "body": "<strong>The coastal areas of the western Indian state of Gujarat are now home to more than 100 lions. Experts say it shows that their natural habitat is shrinking.</strong>\n\nThe Gir forest in Gujarat - the only natural habitat of the Asiatic lion - had around 400 lions in 2020, according to a state forest department estimate. The rest of the state has around 275 lions, of which 104 have spread themselves across 300km (186 miles) of Gujarat's coastline.\n\nConservationists say the unusual movement is happening because the natural habitat of lions has become overcrowded.\n\n'Normally, it is difficult for lions to adapt to a coastal habitat, but they have no option because of scarcity of land,' Dr Nishith Dhariya, a wildlife scholar, says.\n\nLions were once widespread across Gujarat, but their numbers shrank to a mere dozen in the early 20th Century, mainly due to hunting and drought.\n\nSince then, conservation efforts have helped their population soar in the dry, deciduous Gir forests. But many experts have said for years that the Gir sanctuary has become too small for the territorial animals.",
+      "sentAt": "2022-03-27T18:25:43.511Z",
+      "archived": true,
+      "read": false
+    },
+    {
+      "id": 2,
+      "from": "test_2@test.com",
+      "subject": "Maine energy: How one hydropower project sparked a $100m 'hoohah'",
+      "body": "<img width='400' src='https://i.picsum.photos/id/0/5616/3744.jpg?hmac=3GAAioiQziMGEtLbfrdbcoenXoWAW-zlyEAMkfEdBzQ'><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur officiis quo, tempore eum consequuntur modi sed odio accusamus qui soluta, natus cum, aliquid illo. Aperiam voluptatum pariatur eum cum dolorem?</p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur officiis quo, tempore eum consequuntur modi sed odio accusamus qui soluta, natus cum, aliquid illo. Aperiam voluptatum pariatur eum cum dolorem?</p>",
+      "sentAt": "2022-05-20T18:25:43.511Z",
+      "archived": true,
+      "read": false
+    },
+    {
+      "id": 3,
+      "from": "test_3@test.com",
+      "subject": "#177: Test subject",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur officiis quo, tempore eum consequuntur modi sed odio accusamus qui soluta, natus cum, aliquid illo. Aperiam voluptatum pariatur eum cum dolorem?",
+      "sentAt": "2022-03-18T18:25:43.511Z",
+      "archived": true,
+      "read": true
+    },
+    {
+      "id": 4,
+      "from": "test_4@test.com",
+      "subject": "Test email template",
+      "body": "<ul><li>List item</li></ul>",
+      "sentAt": "2022-03-24T18:25:43.511Z",
+      "archived": true,
+      "read": false
+    },
+    {
+      "id": 5,
+      "from": "test_5@test.com",
+      "subject": "Gujarat: The unusual lion sightings on India's beaches",
+      "body": "<strong>The coastal areas of the western Indian state of Gujarat are now home to more than 100 lions. Experts say it shows that their natural habitat is shrinking.</strong>\n\nThe Gir forest in Gujarat - the only natural habitat of the Asiatic lion - had around 400 lions in 2020, according to a state forest department estimate. The rest of the state has around 275 lions, of which 104 have spread themselves across 300km (186 miles) of Gujarat's coastline.\n\nConservationists say the unusual movement is happening because the natural habitat of lions has become overcrowded.\n\n'Normally, it is difficult for lions to adapt to a coastal habitat, but they have no option because of scarcity of land,' Dr Nishith Dhariya, a wildlife scholar, says.\n\nLions were once widespread across Gujarat, but their numbers shrank to a mere dozen in the early 20th Century, mainly due to hunting and drought.\n\nSince then, conservation efforts have helped their population soar in the dry, deciduous Gir forests. But many experts have said for years that the Gir sanctuary has become too small for the territorial animals.",
+      "sentAt": "2022-03-27T18:25:43.511Z",
+      "archived": false,
+      "read": true
+    },
+    {
+      "id": 6,
+      "from": "test_6@test.com",
+      "subject": "Maine energy: How one hydropower project sparked a $100m 'hoohah'",
+      "body": "<img width='400' src='https://i.picsum.photos/id/0/5616/3744.jpg?hmac=3GAAioiQziMGEtLbfrdbcoenXoWAW-zlyEAMkfEdBzQ'><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur officiis quo, tempore eum consequuntur modi sed odio accusamus qui soluta, natus cum, aliquid illo. Aperiam voluptatum pariatur eum cum dolorem?</p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur officiis quo, tempore eum consequuntur modi sed odio accusamus qui soluta, natus cum, aliquid illo. Aperiam voluptatum pariatur eum cum dolorem?</p>",
+      "sentAt": "2022-05-20T18:25:43.511Z",
+      "archived": false,
+      "read": false
+    },
+    {
+      "id": 7,
+      "from": "test_7@test.com",
+      "subject": "#177: Test subject",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur officiis quo, tempore eum consequuntur modi sed odio accusamus qui soluta, natus cum, aliquid illo. Aperiam voluptatum pariatur eum cum dolorem?",
+      "sentAt": "2022-03-18T18:25:43.511Z",
+      "archived": false,
+      "read": true
+    },
+    {
+      "id": 8,
+      "from": "test_8@test.com",
+      "subject": "Test email template",
+      "body": "<ul><li>List item</li></ul>",
+      "sentAt": "2022-03-24T18:25:43.511Z",
+      "archived": false,
+      "read": true
+    }
+  ]
+}
